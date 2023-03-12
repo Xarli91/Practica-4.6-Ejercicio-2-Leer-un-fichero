@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 4.6 Ejercicio 2 Leer un fichero", "Practica 4.6 Ejercicio 2 Leer un fichero.csproj", "{730F3954-9FDA-4AC7-A610-500E719558DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730F3954-9FDA-4AC7-A610-500E719558DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730F3954-9FDA-4AC7-A610-500E719558DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730F3954-9FDA-4AC7-A610-500E719558DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730F3954-9FDA-4AC7-A610-500E719558DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B1C3702-DFD8-4B50-A8C5-C5A586B78BB6}
+	EndGlobalSection
+EndGlobal
